@@ -1,0 +1,18 @@
+POST http://localhost:5001/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"titiiii",
+    "gender":"Male",
+    "email":"alidam@gmail.com", 
+    "phoneNumber":"50123698",
+    "password":"123456"
+}
+
+# POST http://localhost:5001/app/signin
+# Content-Type: application/json
+
+# {
+#     "email":"talel@gmail.com", 
+#     "password":"123456"
+# }
