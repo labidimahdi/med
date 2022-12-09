@@ -340,6 +340,8 @@ margin-left: 42%;
  img.notif{
   width:25px;
   height: 30px;
-  background: rgba(245, 245, 245, 0.3);
+  background-color: rgba(245, 245, 245, 0);
   margin-left: 2200%;
+  
+ 
  }
